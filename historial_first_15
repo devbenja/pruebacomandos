@@ -1,0 +1,15 @@
+ 1231  clear
+ 1232  git status
+ 1233  clear
+ 1234  touch index.html
+ 1235  code index.html
+ 1236  code .
+ 1237  code .
+ 1238  cd PracticaComandos
+ 1239  mkdir PracticaComandos
+ 1240  cd PracticaComandos/
+ 1241  ls
+ 1242  clear
+ 1243  history 15
+ 1244  hystory 15 > historial_first_15
+ 1245  history 15 > historial_first_15
